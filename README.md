@@ -4,6 +4,8 @@ Ez az oldal tartalmazza a koronavírus járvány miatt kialakult helyzetben
 online kiosztott házi feladatokat a Biatorbágyi Általános Iskola 2. b. osztálya
 számára.
 
+![Órarend](orarend.jpg)
+
 Rendszerezve a dátum és a tantárgy neve alapján van.
 
 * [2020-03-18 Angol](2020-03-18-angol.md)
