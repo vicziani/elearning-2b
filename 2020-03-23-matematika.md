@@ -22,3 +22,5 @@ https://wordwall.net/play/991/566/430
 
 Bemelegítésnek a kvíz játékkal kezdjetek! Nevet fog kérni, mindenki a gyerkőc nevét írja be. Ezt most csak mi látjuk és az egész osztály szerepelni fog a rangsorban, amit én is nyomon követek.
 Többször is lehet próbálkozni, ha van kedvetek és jobb eredményt szeretnétek elérni… akár délután, amikor már túl vagytok a feladatokon.
+
+https://wordwall.net/play/992/870/832
