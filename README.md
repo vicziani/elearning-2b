@@ -20,3 +20,4 @@ Rendszerezve a dátum és a tantárgy neve alapján van.
 * [2020-03-20 Matematika](2020-03-20-matematika.md)
 * [2020-03-20 Rajz](2020-03-20-rajz.md)
 * [2020-03-20 Technika](2020-03-20-technika.md)
+* [2020-03-23 Írás](2020-03-23-iras.md)
