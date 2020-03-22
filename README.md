@@ -21,3 +21,7 @@ Rendszerezve a dátum és a tantárgy neve alapján van.
 * [2020-03-20 Rajz](2020-03-20-rajz.md)
 * [2020-03-20 Technika](2020-03-20-technika.md)
 * [2020-03-23 Írás](2020-03-23-iras.md)
+* [2020-03-23 Nyelvtan](2020-03-23-nyelvtan.md)
+* [2020-03-23 Olvasás](2020-03-23-olvasas.md)
+* [2020-03-23 Szavak](2020-03-23-szavak.md)
+* [2020-03-23 Technika](2020-03-23-szavak.md)
