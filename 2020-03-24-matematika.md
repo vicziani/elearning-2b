@@ -15,3 +15,7 @@ Szorgalmi: Tk.: 49/2.  50/2.  50/4.<br />
 *50/2. A soroknak és az oszlopoknak is stimmelnie kell, ahogy a bűvös négyzetnél szoktuk.<br />
 Jó munkát!<br />
 A 8-as vakondost még érdemes lenne gyakorolni, nemsokára áttérünk a 8-as számkörre.
+
+Egy kis játék, csak a gyors olvasóknak...😉 Minimumra vettem a sebességet, de így sem egyszerű...😁 Ez most tényleg kihívás...
+
+https://wordwall.net/play/1017/138/162

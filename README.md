@@ -19,6 +19,7 @@ Rendszerezve a dátum és a tantárgy neve alapján van.
 * [2020-03-19 Matematika](2020-03-19-matematika.md)
 * [2020-03-19 Nyelvtan](2020-03-19-nyelvtan.md)
 * [2020-03-19 Olvasás](2020-03-19-olvasas.md)
+* [2020-03-20 Angol](2020-03-20-angol.md)
 * [2020-03-20 Írás](2020-03-20-iras.md)
 * [2020-03-20 Matematika](2020-03-20-matematika.md)
 * [2020-03-20 Rajz](2020-03-20-rajz.md)
