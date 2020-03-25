@@ -29,6 +29,7 @@ Rendszerezve a dátum és a tantárgy neve alapján van.
 * [2020-03-23 Olvasás](2020-03-23-olvasas.md)
 * [2020-03-23 Szavak](2020-03-23-szavak.md)
 * [2020-03-23 Technika](2020-03-23-technika.md)
+* [2020-03-24 Angol](2020-03-24-angol.md)
 * [2020-03-24 Matematika](2020-03-24-matematika.md)
 * [2020-03-24 Olvasás](2020-03-24-olvasas.md)
 * [2020-03-25 Környezet](2020-03-25-kornyezet.md)
