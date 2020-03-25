@@ -17,6 +17,6 @@ Házi feladatnak mindenképp javaslom a szorzós gyakorlókat, amit tegnap oszto
 Küldök még egy jó kis feladatot más témakörben…
 Jó munkát!
 
-https://wordwall.net/hu/resource/452663/matek/m%c5%b1veleti-sorrend
+https://wordwall.net/hu/resource/452663/matek/m%c5%b1veleti-sorrend (műveleti sorrend egy cowboy-jal)
 
-https://wordwall.net/play/943/848/362
+https://wordwall.net/play/943/848/362 (feleletválasztós kvíz a szorzó-bennfoglaló szabályokkal kapcsolatban)

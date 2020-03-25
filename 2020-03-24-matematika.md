@@ -1,5 +1,5 @@
 ---
-date: 2020-03-24
+date: 2020-03-25
 subject: maths
 ---
 
@@ -18,4 +18,4 @@ A 8-as vakondost még érdemes lenne gyakorolni, nemsokára áttérünk a 8-as s
 
 Egy kis játék, csak a gyors olvasóknak...😉 Minimumra vettem a sebességet, de így sem egyszerű...😁 Ez most tényleg kihívás...
 
-https://wordwall.net/play/1017/138/162
+https://wordwall.net/play/1017/138/162 (jobbról beúszó műveleti sorrenddel kapcsolatos állításokról kell eldönteni, hogy igaz vagy hamis)

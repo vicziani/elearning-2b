@@ -16,9 +16,11 @@ Előre szólok, hogy néhányan hajlamosak mindenre azt mondani, hogy nem értik
 Nemsokára a megoldó kulcsot is küldöm…
 Tudjátok, ha kérdés van, nyugodtan "zaklassatok"!😆
 
-Házi feladatnak, az Űrlény-észlény inváziót javaslom. http://szozotabla.hu
+Házi feladatnak, az Űrlény-észlény inváziót javaslom. http://szorzotabla.hu
 
-Küldök még egy gyakorolni valót, konkrétan a 7-es szorzótáblához. Csak lehetőség, nem kötelező...     Jó tanulást Mindenkinek és Puszilom az Okoskáimat!!!😘😘😘 https://wordwall.net/hu/resource/362212/matek/7-es-szorz%c3%b3
+Küldök még egy gyakorolni valót, konkrétan a 7-es szorzótáblához. Csak lehetőség, nem kötelező...     Jó tanulást Mindenkinek és Puszilom az Okoskáimat!!!😘😘😘
+
+https://wordwall.net/hu/resource/362212/matek/7-es-szorz%c3%b3 (7-es szorzó vakondokkal)
 
 Sziasztok!
 Felmerült egy kérdés: hogyan működik az önellenőrzés?

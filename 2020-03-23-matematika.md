@@ -18,9 +18,9 @@ Mf.: 34/1. Remélem már tábla nélkül is megy!<br/>
 \*34/2. Az elejével nem lesz gond, de a b) részhez hasonlót még nem csináltunk. Magyarázat a megoldó kulcson… Ha kérdés van, hívjatok!<br/>
 \*34/3. Ugyanez a helyzet…<br/>
 
-https://wordwall.net/play/991/566/430
+https://wordwall.net/play/991/566/430 (Ki kell választani a 7-es számsorral kapcsolatos kakukktojást)
 
 Bemelegítésnek a kvíz játékkal kezdjetek! Nevet fog kérni, mindenki a gyerkőc nevét írja be. Ezt most csak mi látjuk és az egész osztály szerepelni fog a rangsorban, amit én is nyomon követek.
 Többször is lehet próbálkozni, ha van kedvetek és jobb eredményt szeretnétek elérni… akár délután, amikor már túl vagytok a feladatokon.
 
-https://wordwall.net/play/992/870/832
+https://wordwall.net/play/992/870/832 (8 többszörösei vakondokkal)

@@ -16,6 +16,6 @@ Szorgalmi: Tk.:46/3, 47/3
 Máris küldöm a megoldásokat is és ismét csatolok online játékot is…
 Puszilom a gyerekeket!😘 Jó munkát!
 
-https://wordwall.net/hu/resource/388218/matek/7-es-bennfoglal%c3%b3
+https://wordwall.net/hu/resource/388218/matek/7-es-bennfoglal%c3%b3 (7-es bennfoglalás, művelet eredményét kell kiválasztani a felajánlottak közül)
 
 Kivételesen azt javaslom, hogy a játékkal kezdjetek, mert begyakoroltatja a bennfoglalást és utána könnyebb lesz.😉
