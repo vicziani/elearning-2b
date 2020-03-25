@@ -31,12 +31,24 @@ Rendszerezve a dátum és a tantárgy neve alapján van.
 * [2020-03-23 Technika](2020-03-23-technika.md)
 * [2020-03-24 Matematika](2020-03-24-matematika.md)
 * [2020-03-24 Olvasás](2020-03-24-olvasas.md)
+* [2020-03-25 Környezet](2020-03-25-kornyezet.md)
+* [2020-03-25 Olvasás](2020-03-25-olvasas.md)
+* [2020-03-26 Nyelvtan](2020-03-26-nyelvtan.md)
+* [2020-03-26 Olvasás](2020-03-26-olvasas.md)
+* [2020-03-26 Matematika](2020-03-26-matematika.md)
+
 
 Sziasztok!
+
 Tesihez is megosztok néhány videót, hátha hasznos lesz... A jógát otthon is lehet csinálni. 😉
 Természetesen csak ajánlás, de ha már nagyon be leszünk zárva, jól jöhet...
+
 jóga: https://www.youtube.com/watch?v=37FQwSuymKw
+
 https://www.youtube.com/watch?v=4ZqQmxf7WQs
+
 tesi: https://www.youtube.com/watch?v=6yL8yYJJ7Kw
+
 https://www.youtube.com/watch?v=qBF_ogxb3Gc
+
 https://www.youtube.com/watch?v=C5rx8s6kFAE
