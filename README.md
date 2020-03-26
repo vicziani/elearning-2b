@@ -37,6 +37,10 @@ Rendszerezve a dátum és a tantárgy neve alapján van.
 * [2020-03-26 Nyelvtan](2020-03-26-nyelvtan.md)
 * [2020-03-26 Olvasás](2020-03-26-olvasas.md)
 * [2020-03-26 Matematika](2020-03-26-matematika.md)
+* [2020-03-27 Matematika](2020-03-27-matematika.md)
+* [2020-03-27 Rajz](2020-03-27-rajz.md)
+* [2020-03-27 Írás](2020-03-27-iras.md)
+* [2020-03-27 Tollbamondás](2020-03-27-tollbamondas.md)
 
 
 Sziasztok!
