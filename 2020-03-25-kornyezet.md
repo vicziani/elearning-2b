@@ -22,12 +22,12 @@ Hogy megkönnyítsem a dolgotokat, most több online játékos feladatot is fogo
 Jó munkát kívánok!
 Viki néni
 
-https://wordwall.net/play/1029/620/467
+https://wordwall.net/play/1029/620/467 (Az ember fejlődési szakaszai)
 
-https://wordwall.net/play/1029/899/420
+https://wordwall.net/play/1029/899/420 (Egészséges életmód)
 
-https://wordwall.net/play/1030/194/831
+https://wordwall.net/play/1030/194/831 (Tápanyagok szerint csoportosíts!)
 
-https://wordwall.net/play/1029/143/552
+https://wordwall.net/play/1029/143/552 (Életműködés)
 
-https://wordwall.net/play/499/436/406
+https://wordwall.net/play/499/436/406 (Érzékszervek)
