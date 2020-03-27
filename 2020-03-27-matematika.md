@@ -11,8 +11,8 @@ Sima összeadások lesznek, annyi csak az instrukció, hogy úgy számoljanak, a
 
 Kinéztem több ismétlő online játékot, amit érdemes megcsinálni…
 
-https://wordwall.net/hu/resource/431849/matek/melyik-sz%c3%a1mra-gondoltam-2-3-4-5
+https://wordwall.net/hu/resource/431849/matek/melyik-sz%c3%a1mra-gondoltam-2-3-4-5 (Melyik számra gondoltam? - osztás)
 
-https://wordwall.net/resource/499459/matek/matek-elm%c3%a9let-
+https://wordwall.net/resource/499459/matek/matek-elm%c3%a9let- (Matek elmélet - összeadás, kivonás, szorzás, osztás fogalmai)
 
-https://wordwall.net/resource/557716/matek/%c3%b6sszead%c3%a1s-t%c3%adzes%c3%a1tl%c3%a9p%c3%a9ssel-100
+https://wordwall.net/resource/557716/matek/%c3%b6sszead%c3%a1s-t%c3%adzes%c3%a1tl%c3%a9p%c3%a9ssel-100 (összeadás tízes átlépéssel egy cowboy-jal)
