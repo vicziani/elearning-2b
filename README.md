@@ -41,6 +41,12 @@ Rendszerezve a dátum és a tantárgy neve alapján van.
 * [2020-03-27 Rajz](2020-03-27-rajz.md)
 * [2020-03-27 Írás](2020-03-27-iras.md)
 * [2020-03-27 Tollbamondás](2020-03-27-tollbamondas.md)
+* [2020-03-31 Szavak](2020-03-31-szavak.md)
+* [2020-03-31 Matematika](2020-03-31-matematika.md)
+* [2020-03-31 Nyelvtan](2020-03-31-nyelvtan.md)
+* [2020-03-31 Olvasás](2020-03-31-olvasas.md)
+* [2020-03-31 Technika](2020-03-31-technika.md)
+
 
 
 Sziasztok!
