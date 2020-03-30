@@ -3,29 +3,24 @@ date: 2020-03-31
 subject: maths
 ---
 
-# Röpdolgozat
+március 31.
 
-1. Regisztrálni a Redmenta oldalon. (A gyerek neve, email cím, ami nem kell, hogy a gyereké legyen.)
-2. A felső sor közepén, a direktcímre kattintva, a következőt írjátok be: szorzó röpi
-3. Elvileg már látni is fogjátok a feladatlapot, amit a GYEREKEK 9-13 óra között végezhetnek el.
-4. Rákattintotok és el is lehet kezdeni... csak egyszer tölthetitek ki és összesen 10 perc áll a rendelkezésetekre. (10 db szorzás és 10 db osztás lesz a feladat, amit az eredménnyel párosítani kell, kb.:2 perc alatt végezhető el)
-5. Ha alul a továbbítás gombra nyomtok, először meglátjátok, hogy minden feladatot kitöltöttetek-e, ha még egyszer tovább, akkor már elkülditek a feladatot, aminek ti is és én is rögtön látni fogom az eredményét.
+Tk.:57/1. 57/3. Mf.: 37/3. 38/4.
+Szorgalmi: Mf.:37/1. 37/2.
 
-# március 30.
+Tk.:57/1. Ismét az ellentét műveletre hívjátok fel a figyelmet, úgy könnyebb lesz kiszámolni.
 
-Tk.: 56/1. 56/2. 56/3.
-Szorgalmi: Tk.: 57/2. 57/4.
+57/3. A műveletet is le kell írni, nem elég csak az eredményt.<br />
+Mf.: 37/3. Szokásos módon kérem a szöveges feladatot, ahogy a füzetben is szoktuk. Adatok, megoldási terv, számolás és válasz. (Nézzétek meg a megoldóban!)<br />
+38/4. Ugyanaz vonatkozik, mint az előzőre...
 
-56/1. Figyeljenek a kivonásnál a sorrendre, először mindig a kerek tízeseket vesszük el és csak utána az egyeseket.
+*Mf.:37/1. Először keressék meg, hogy hová fogják beírni az eredményt.<br />
+*37/2. Írják a műveletek fölé az eredményt, soronként dolgozzanak!
 
-56/2. Érdemes soronként dolgozni, hogy ugyan azokat a számokat kelljen kivonni.
+Az összeadásnál és a kivonásnál is a kerek tízesekkel kezdjenek!
 
-56/3. Próbálják meg önállóan értelmezni, ha nem megy akkor mondjátok el, hogy ez tulajdonképpen, csak pótlás 80-ra.
+Ezt a két már ismert játékot ajánlom gyakorlásra...
 
-*57/2. Mindenképp írják a számolás fölé az eredményeket és csak utána írják közé a relációs jeleket.
+https://wordwall.net/…/…/matek/8-t%c3%b6bbsz%c3%b6r%c3%b6sei  
 
-*57/4. Az a) nem fog gondot okozni, a b)-nél a középső egértől jobbra kell elindulni, utána pedig visszafelé. Vigyázzanak arra, hogy visszafelé ellentét művelettel számoljanak!
-
-![Megoldások 1.](megoldasok/2020-03-31-matematika-1.jpg)
-
-![Megoldások 2.](megoldasok/2020-03-31-matematika-2.jpg)
+https://wordwall.net/hu/resource/1011696/matek/v%c3%a1laszd-ki-helyes-eredm%c3%a9nyt-7-8-szorz%c3%b3t%c3%a1bla  
