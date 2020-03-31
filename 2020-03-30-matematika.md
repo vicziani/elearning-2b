@@ -26,6 +26,6 @@ Szorgalmi: Tk.: 57/2. 57/4.
 
 *57/4. Az a) nem fog gondot okozni, a b)-nél a középső egértől jobbra kell elindulni, utána pedig visszafelé. Vigyázzanak arra, hogy visszafelé ellentét művelettel számoljanak!
 
-![Megoldások 1.](megoldasok/2020-03-31-matematika-1.jpg)
+![Megoldások 1.](megoldasok/2020-03-30-matematika-1.jpg)
 
-![Megoldások 2.](megoldasok/2020-03-31-matematika-2.jpg)
+![Megoldások 2.](megoldasok/2020-03-30-matematika-2.jpg)
