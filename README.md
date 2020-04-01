@@ -48,6 +48,9 @@ Rendszerezve a dátum és a tantárgy neve alapján van.
 * [2020-03-30 Technika](2020-03-30-technika.md)
 * [2020-03-31 Olvasás](2020-03-31-olvasas.pdf)
 * [2020-03-31 Matematika](2020-03-31-matematika.md)
+* [2020-04-01 Környezet](2020-04-01-kornyezet.md)
+* [2020-04-01 Olvasás](2020-04-01-olvasas.md)
+* [Bolondok napja](2020-04-01-bolondok-napja.pdf)
 
 
 
