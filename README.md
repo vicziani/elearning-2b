@@ -58,6 +58,13 @@ Rendszerezve a dátum és a tantárgy neve alapján van.
 * [2020-04-03 Írás](2020-04-03-iras.md)
 * [2020-04-03 Matematika](2020-04-03-matematika.md)
 * [2020-04-03 Rajz](2020-04-03-rajz.md)
+* [2020-04-06 Matematika](2020-04-06-matematika.md)
+* [2020-04-06 Nyelvtan](2020-04-06-nyelvtan.md)
+* [2020-04-06 Szavak](2020-04-06-szavak.md)
+* [2020-04-06 Olvasás](2020-04-06-olvasas.md)
+* [2020-04-06 Húsvét](2020-04-06-husvet.pdf)
+* [2020-04-06 Technika](2020-04-06-technika.pdf)
+
 
 
 
