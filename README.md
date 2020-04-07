@@ -66,6 +66,7 @@ Rendszerezve a dátum és a tantárgy neve alapján van.
 * [2020-04-06 Húsvét](2020-04-06-husvet.pdf) Harmónika nyúl hajtogatás: https://www.youtube.com/watch?v=4jSEUTgCVfM
 * 2020-04-07 Matematika: Röpdolgozat a Redmentán
 * [2020-04-07 Olvasás](2020-04-07-olvasas.md)
+* [2020-04-07 Angol](2020-04-07-angol.md)
 
 
 Sziasztok!
