@@ -70,6 +70,9 @@ Rendszerezve a dátum és a tantárgy neve alapján van.
 * [2020-04-15 Olvasás](2020-04-15-olvasas.md)
 * [2020-04-15 Szavak](2020-04-15-szavak.jpg)
 * [2020-04-15 Környezet](2020-04-15-kornyezet.md)
+* [2020-04-16 Matematika](2020-04-16-matematika.md)
+* [2020-04-16 Olvasás](2020-04-16-olvasas.md)
+* [2020-04-16 Nyelvtan](2020-04-16-nyelvtan.md)
 
 
 Sziasztok!
