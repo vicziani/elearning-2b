@@ -73,6 +73,7 @@ Rendszerezve a dátum és a tantárgy neve alapján van.
 * [2020-04-16 Matematika](2020-04-16-matematika.md)
 * [2020-04-16 Olvasás](2020-04-16-olvasas.md)
 * [2020-04-16 Nyelvtan](2020-04-16-nyelvtan.md)
+* [2020-04-17 Írás](2020-04-17-iras.md)
 
 
 Sziasztok!
