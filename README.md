@@ -73,13 +73,16 @@ Rendszerezve a dátum és a tantárgy neve alapján van.
 * [2020-04-16 Matematika](2020-04-16-matematika.md)
 * [2020-04-16 Olvasás](2020-04-16-olvasas.md)
 * [2020-04-16 Nyelvtan](2020-04-16-nyelvtan.md)
+* [2020-04-17 Matematika](2020-04-17-matematika.md)
 * [2020-04-17 Írás](2020-04-17-iras.md)
+* [2020-04-17 Angol](2020-04-17-angol.md)
+* [2020-04-17 Rajz](2020-04-17-rajz.md)
 
+# Online letölthető tankönyvvek
 
-Sziasztok!
+https://www.tankonyvkatalogus.hu/
 
-Tesihez is megosztok néhány videót, hátha hasznos lesz... A jógát otthon is lehet csinálni. 😉
-Természetesen csak ajánlás, de ha már nagyon be leszünk zárva, jól jöhet...
+# Tesi
 
 jóga: https://www.youtube.com/watch?v=37FQwSuymKw
 
