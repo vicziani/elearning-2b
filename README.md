@@ -77,6 +77,12 @@ Rendszerezve a dátum és a tantárgy neve alapján van.
 * [2020-04-17 Írás](2020-04-17-iras.md)
 * [2020-04-17 Angol](2020-04-17-angol.md)
 * [2020-04-17 Rajz](2020-04-17-rajz.md)
+* [2020-04-20 Matematika](2020-04-20-matematika.md)
+* [2020-04-20 Nyelvtan](2020-04-20-nyelvtan.docx)
+* [2020-04-20 Tollbamondás](2020-04-20-tollbamondas.m4a)
+* [2020-04-20 Szavak](2020-04-20-szavak.docx)
+* [2020-04-20 Olvasás](2020-04-20-olvasas.docx)
+* [2020-04-20 Technika](2020-04-20-technika.docx)
 
 # Online letölthető tankönyvvek
 
