@@ -83,6 +83,7 @@ Rendszerezve a dátum és a tantárgy neve alapján van.
 * [2020-04-20 Szavak](2020-04-20-szavak.pdf)
 * [2020-04-20 Olvasás](2020-04-20-olvasas.pdf)
 * [2020-04-20 Technika](2020-04-20-technika.pdf)
+* [2020-04-21 Olvasás](2020-04-21-olvasas.pdf)
 
 # Online letölthető tankönyvvek
 
