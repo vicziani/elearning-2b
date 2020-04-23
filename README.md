@@ -91,6 +91,8 @@ Rendszerezve a dátum és a tantárgy neve alapján van.
 * 2020-04-23 Matematika: témazáró dolgozat a 80-as számkörből Redmentán
 * [2020-04-23 Nyelvtan](2020-04-23-nyelvtan.pdf)
 * [2020-04-23 Olvasás](2020-04-23-olvasas.pdf)
+* [2020-04-24 Matematika](2020-04-24-matematika.md)
+* [2020-04-24 Nyelvtan](2020-04-24-nyelvtan.md)
 
 # Online letölthető tankönyvvek
 
