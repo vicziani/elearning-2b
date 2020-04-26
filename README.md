@@ -94,6 +94,11 @@ Rendszerezve a dátum és a tantárgy neve alapján van.
 * [2020-04-24 Matematika](2020-04-24-matematika.md)
 * [2020-04-24 Nyelvtan](2020-04-24-nyelvtan.md)
 * [2020-04-24 Rajz](2020-04-24-rajz.docx)
+* [2020-04-27 Matematika](2020-04-27-matematika.md)
+* [2020-04-27 Nyelvtan](2020-04-27-nyelvtan.pdf)
+* [2020-04-27 Szavak](2020-04-27-szavak.pdf)
+* [2020-04-27 Olvasás](2020-04-27-olvasas.pdf)
+* [2020-04-27 Technika](2020-04-27-technika.pdf)
 
 # Online letölthető tankönyvvek
 
