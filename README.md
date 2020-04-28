@@ -101,6 +101,7 @@ Rendszerezve a dátum és a tantárgy neve alapján van.
 * [2020-04-27 Technika](2020-04-27-technika.pdf)
 * [2020-04-28 Matematika](2020-04-28-matematika.md)
 * [2020-04-28 Olvasás](2020-04-28-olvasas.pdf)
+* [2020-04-28 Angol](2020-04-28-angol.md)
 
 # Online letölthető tankönyvvek
 
