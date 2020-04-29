@@ -103,6 +103,9 @@ Rendszerezve a dátum és a tantárgy neve alapján van.
 * [2020-04-28 Olvasás](2020-04-28-olvasas.pptx)
 * [2020-04-28 Angol](2020-04-28-angol.md)
 * [2020-04-28 Olvasás](2020-04-28-olvasas.pdf)
+* [2020-04-29 Környezet](2020-04-29-kornyezet.md)
+* [2020-04-29 Olvasás](2020-04-29-olvasas.pdf)
+* [2020-04-30 Matematika](2020-04-30-matematika.md)
 
 # Online letölthető tankönyvvek
 
