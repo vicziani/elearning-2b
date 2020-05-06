@@ -107,6 +107,20 @@ Rendszerezve a dátum és a tantárgy neve alapján van.
 * [2020-04-29 Olvasás](2020-04-29-olvasas.pdf)
 * [2020-04-30 Matematika](2020-04-30-matematika.md)
 * [2020-04-30 Olvasás](2020-04-30-olvasas.pdf), https://youtu.be/b3iz-qgsLyM https://youtu.be/Fp2jKmucgEI
+* [2020-05-04 Matematika](2020-05-04-matematika.md)
+* [2020-05-04 Olvasás](2020-05-04-olvasas.pdf) https://www.youtube.com/watch?v=OV2LxOpok2E&feature=emb_logo
+* [2020-05-04 Nyelvtan](2020-05-04-nyelvtan.pdf)
+* [2020-05-04 Szavak](2020-05-04-szavak.pdf)
+* [2020-05-04 technika](2020-05-04-technika.md)
+* [2020-05-05 Matematika](2020-05-05-matematika.md)
+* [2020-05-05 Olvasás](2020-05-05-olvasas.pdf)
+* [2020-05-05 Angol](2020-05-05-angol.md)
+* [2020-05-06 Környezet](2020-05-06-kornyezet.md)
+* [2020-05-06 Matematika](2020-05-06-matematika.md)
+* [2020-05-06 Olvasás](2020-05-06-olvasas.pdf)
+* [2020-05-07 Matematika](2020-05-07-matematika.md)
+* 2020-05-07 Nyelvtan https://drive.google.com/file/d/15_we2fBcK7SgH2HSObvxb-VAGX4fSvhw/view
+* [2020-05-07 Olvasás](2020-05-07-olvasas.pdf)
 
 # Online letölthető tankönyvvek
 
